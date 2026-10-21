@@ -30,7 +30,7 @@ Do not publish confidential internship information, secrets, API keys, or privat
 </div>
 
 ---
-
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nathanaelxn&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 ## 🧑‍💻 About Me
 
 I am a cybersecurity enthusiast pursuing an **MCA in Cyber Security at Bennett University**, with a strong interest in security operations, digital investigations, and authorized security testing. I enjoy building practical skills through hands-on labs, technical projects, and structured learning.
