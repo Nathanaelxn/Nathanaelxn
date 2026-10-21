@@ -220,31 +220,11 @@ Completed an internship involving exposure to cybersecurity and digital-investig
 
 ---
 
-## 📊 GitHub Analytics
+📊 GitHub Stats:
 
-These cards fetch public GitHub data dynamically. They may take time to load or be temporarily unavailable because they rely on third-party services. Language statistics represent code in public repositories and should not be treated as a complete measure of skill.
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nathanaelxn&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanaelxn&layout=compact&hide_border=true&langs_count=8" alt="Most-used languages in public repositories" />
-
-<img src="https://streak-stats.demolab.com?user=Nathanaelxn&hide_border=true" alt="GitHub contribution streak" />
-
-
-</div>
-
-### Profile Visits
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Nathanaelxn&label=Profile%20Views&color=2478D4&style=flat" alt="Profile view counter" />
-
-</div>
-
-*Analytics depend on the availability and configuration of external services. A streak or contribution chart measures GitHub activity, not cybersecurity proficiency.*
-
+![](https://github-readme-stats.shion.dev/api?username=Nathanaelxn&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Nathanaelxn&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nathanaelxn&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🧪 Hands-on Learning
@@ -277,30 +257,16 @@ Visit my profile for current learning activity. No rank, room count, or completi
 
 ---
 
-## 🤝 Let's Connect
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/nathanael-a-thomas-n/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Nathanael A Thomas's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:msg2nathanael@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Nathanael A Thomas's Email"/></a>&nbsp;&nbsp;
+  <a href="https://nathanaelxn.github.io/portfolio/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+</p>
 
-I'm interested in connecting with cybersecurity professionals, SOC teams, mentors, and fellow learners.
-
-- **Portfolio:** [nathanaelxn.github.io/portfolio](https://nathanaelxn.github.io/portfolio/)
-- **LinkedIn:** [Nathanael A Thomas](https://www.linkedin.com/in/nathanael-a-thomas-n/)
-- **Email:** [msg2nathanael@gmail.com](mailto:msg2nathanael@gmail.com)
-- **TryHackMe:** [txt2nathanael](https://tryhackme.com/p/txt2nathanael)
-- **GitHub:** [@Nathanaelxn](https://github.com/Nathanaelxn)
-
-**Open to:** Entry-level cybersecurity opportunities, internships, mentorship, and collaborative learning projects.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-2478D4?style=for-the-badge)](https://nathanaelxn.github.io/portfolio/)
-
-</div>
-
----
-
-<div align="center">
-
-### "Understand the signal. Investigate the evidence. Improve the defence."
-
-*Learning continuously • Testing responsibly • Documenting clearly*
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
 </div>
