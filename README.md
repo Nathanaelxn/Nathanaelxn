@@ -31,14 +31,14 @@ Repository name: Nathanaelxn
 
 ## 🧑‍💻 About Me
 
-I am a cybersecurity fresher with hands-on experience in penetration testing, vulnerability assessment, and network security[cite: 1]. Holding a Master of Computer Applications (MCA) in Cyber Security from Bennett University, I am a certified security professional proficient in using Kali Linux tools to identify system weaknesses and secure infrastructure[cite: 1]. 
+I am a cybersecurity fresher with hands-on experience in penetration testing, vulnerability assessment, and network security[cite: 1]. Holding a Master of Computer Applications (MCA) in Cyber Security from Bennett University, I am a certified security professional proficient in using Kali Linux tools to identify system weaknesses and secure infrastructure. 
 
-I am eager to bring my technical problem-solving skills and a solid foundation in offensive and defensive security to a growing security team[cite: 1].
+I am eager to bring my technical problem-solving skills and a solid foundation in offensive and defensive security to a growing security team.
 
 My core competency areas span:
-- 🧪 **Offensive Security:** Network Penetration Testing, Web Application Penetration Testing, API Security Testing, Active Directory Security Assessment, and Android Application Security Testing[cite: 1].
-- 🛡️ **Defensive & Operations:** SOC Operations, SIEM Fundamentals, Vulnerability Assessment, OSINT, and Post-Exploitation[cite: 1].
-- 🐧 **Environments & Core Technologies:** TCP/IP, HTTP/HTTPS, DNS, Active Directory, Linux, Windows, and Docker[cite: 1].
+- 🧪 **Offensive Security:** Network Penetration Testing, Web Application Penetration Testing, API Security Testing, Active Directory Security Assessment, and Android Application Security Testing.
+- 🛡️ **Defensive & Operations:** SOC Operations, SIEM Fundamentals, Vulnerability Assessment, OSINT, and Post-Exploitation.
+- 🐧 **Environments & Core Technologies:** TCP/IP, HTTP/HTTPS, DNS, Active Directory, Linux, Windows, and Docker.
 
 > **My approach:** Identify system weaknesses, validate findings safely, document evidence clearly, and continuously strengthen infrastructure security.
 
