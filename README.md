@@ -1,15 +1,13 @@
 <!--
 GitHub Profile README
 Repository name: Nathanaelxn
-Replace every [ADD ...] placeholder and verify certification details before publishing.
-Do not publish confidential internship information, secrets, API keys, or private lab targets.
 -->
 
 <div align="center">
 
-# 👋 Hi, I'm Nathanael Thomas
+# 👋 Hi, I'm Nathanael A Thomas
 
-### Cybersecurity Enthusiast | Aspiring SOC Analyst | Blue Team & Red Team Learner
+### Cybersecurity Fresher | Penetration Testing & Vulnerability Assessment | Offensive & Defensive Security Learner
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View%20My%20Website-2478D4?style=for-the-badge&logoColor=white)](https://nathanaelxn.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanael-a-thomas-n/)
@@ -17,9 +15,9 @@ Do not publish confidential internship information, secrets, API keys, or privat
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msg2nathanael@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nathanaelxn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2478D4&center=true&vCenter=true&width=800&lines=Security+Monitoring+%26+Log+Analysis;SOC+Operations+%7C+Threat+Detection;Digital+Forensics+%26+Incident+Response;Web+Application+Security+%7C+VAPT;Always+Learning%2C+Practicing%2C+Improving" alt="Animated cybersecurity focus areas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2478D4&center=true&vCenter=true&width=800&lines=Network+%26+Web+Penetration+Testing;Vulnerability+Assessment+%7C+Active+Directory;Android+Application+Security+Testing;SOC+Operations+%7C+SIEM+Fundamentals;Always+Learning%2C+Practicing%2C+Improving" alt="Animated cybersecurity focus areas" />
 
-📍 Kerala, India | 🎓 MCA Cyber Security, Bennett University | 💼 Open to Cybersecurity Opportunities
+📍 Pathanamthitta, Kerala, India | 🎓 MCA Cyber Security, Bennett University | 💼 Open to Cybersecurity Opportunities
 
 <br/>
 
@@ -33,19 +31,16 @@ Do not publish confidential internship information, secrets, API keys, or privat
 
 ## 🧑‍💻 About Me
 
-I am a cybersecurity enthusiast pursuing an **MCA in Cyber Security at Bennett University**, with a strong interest in security operations, digital investigations, and authorized security testing. I enjoy building practical skills through hands-on labs, technical projects, and structured learning.
+I am a cybersecurity fresher with hands-on experience in penetration testing, vulnerability assessment, and network security[cite: 1]. Holding a Master of Computer Applications (MCA) in Cyber Security from Bennett University, I am a certified security professional proficient in using Kali Linux tools to identify system weaknesses and secure infrastructure[cite: 1]. 
 
-My interests span both **Blue Team** and **Red Team** security:
+I am eager to bring my technical problem-solving skills and a solid foundation in offensive and defensive security to a growing security team[cite: 1].
 
-- 🛡️ **SOC & Blue Team:** SIEM fundamentals, security monitoring, log analysis, threat detection, threat hunting, and incident response.
-- 🔎 **Digital Forensics:** Digital evidence concepts, investigation workflows, and forensic analysis.
-- 🧪 **Red Team & Application Security:** Vulnerability assessment, penetration-testing methodology, and web application security in authorized environments.
-- 🐧 **Systems & Networking:** Linux/Kali Linux, TCP/IP networking, and virtualized lab environments.
-- 🐍 **Automation:** Python and Bash scripting for practical security and system-administration tasks.
+My core competency areas span:
+- 🧪 **Offensive Security:** Network Penetration Testing, Web Application Penetration Testing, API Security Testing, Active Directory Security Assessment, and Android Application Security Testing[cite: 1].
+- 🛡️ **Defensive & Operations:** SOC Operations, SIEM Fundamentals, Vulnerability Assessment, OSINT, and Post-Exploitation[cite: 1].
+- 🐧 **Environments & Core Technologies:** TCP/IP, HTTP/HTTPS, DNS, Active Directory, Linux, Windows, and Docker[cite: 1].
 
-I am currently seeking **entry-level cybersecurity opportunities** where I can learn from experienced practitioners, contribute carefully documented work, and grow into a capable security analyst.
-
-> **My approach:** Learn the fundamentals, validate findings in authorized environments, document evidence clearly, and keep improving.
+> **My approach:** Identify system weaknesses, validate findings safely, document evidence clearly, and continuously strengthen infrastructure security.
 
 ## 🌐 Portfolio
 
@@ -61,168 +56,61 @@ I am currently seeking **entry-level cybersecurity opportunities** where I can l
 
 </div>
 
-## 🎯 Career Focus
-
-| Area | Current Focus |
-|---|---|
-| Primary Target | Entry-level cybersecurity roles, including SOC Analyst L1 |
-| Defensive Security | SIEM, security monitoring, log analysis, threat detection |
-| Incident Handling | Incident-response concepts and investigation workflows |
-| Offensive Security | Authorized VAPT and web application testing |
-| Forensics | Digital-forensics concepts and evidence-aware analysis |
-| Automation | Python and Bash fundamentals |
-
 ---
 
-## 🧰 Technical Skills
+## 🧰 Technical Skills & Tools
 
-*These badges represent areas I have studied or practised; they are not a claim of expert-level proficiency.*
+### Technical Core Competencies
+![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-2457A7?style=flat-square)
+![Web App Pentesting](https://img.shields.io/badge/Web%20App%20Pentesting-6F42C1?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0B7285?style=flat-square)
+![API Security](https://img.shields.io/badge/API%20Security-38761D?style=flat-square)
+![Android Security](https://img.shields.io/badge/Android%20Security-4EAA25?style=flat-square)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-D97706?style=flat-square)
+![SOC Operations](https://img.shields.io/badge/SOC%20Operations-000000?style=flat-square)
 
-### Security Operations & Investigation
-
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=flat-square&logo=splunk&logoColor=white)
-![Incident Response](https://img.shields.io/badge/Incident-Response-2457A7?style=flat-square)
-![Threat Hunting](https://img.shields.io/badge/Threat-Hunting-6A5ACD?style=flat-square)
-![Log Analysis](https://img.shields.io/badge/Log-Analysis-38761D?style=flat-square)
-![Digital Forensics](https://img.shields.io/badge/Digital-Forensics-5B6573?style=flat-square)
-
-### Offensive Security & Network Analysis
-
+### Tools & Frameworks
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Professional-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4682B4?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat-square)
-![Web Security](https://img.shields.io/badge/Web%20Application-Security-6F42C1?style=flat-square)
-
-### Operating Systems, Scripting & Lab Tools
-
-![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-1679A7?style=flat-square)
+![BloodHound](https://img.shields.io/badge/BloodHound-Analysis-5B6573?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Security-003366?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-000000?style=flat-square&logo=splunk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![Networking](https://img.shields.io/badge/TCP%2FIP-Networking-0B7285?style=flat-square)
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
 
-The project summaries below reflect work and labs described in this profile. Add the actual repository links and verify implementation details before publishing. More details are available on my [portfolio website](https://nathanaelxn.github.io/portfolio/).
+### Cyber Security Student Trainee | Offenso Hackers Academy
+*October 2026*[cite: 1]
+- Conducted comprehensive penetration testing on web applications, networks, and systems to identify, analyze, and safely exploit security vulnerabilities[cite: 1].
+- Performed vulnerability assessments and privilege escalation tasks, translating technical findings into clear remediation strategies[cite: 1].
+- Utilized core offensive security tools such as Nmap, Metasploit, John the Ripper, and Gobuster within Kali Linux environments for reconnaissance and analysis[cite: 1].
 
-### 1. USB Device Detection and Notification System
-
-**Focus:** Endpoint visibility, event monitoring, and automated notifications
-
-**Technologies:** Python, `pyudev`, `psutil`, SMTP, operating-system APIs
-
-A mini-project designed to detect USB-device connections and generate useful notifications and reports for security awareness and device monitoring.
-
-**Planned / described capabilities**
-
-- Detect USB insertion events on supported operating systems.
-- Collect available device information, such as device path, manufacturer/product identifiers, serial number, and event timestamp.
-- Record host and system context where available.
-- Generate a local text report and send an email notification through configured SMTP credentials.
-- Support a graphical workflow for saving reports and exiting the application.
-
-**Security and reliability notes**
-
-- Device fields can be unavailable depending on the operating system and device.
-- Email credentials should be stored securely and never committed to a public repository.
-- Test only on systems and devices you own or are authorized to monitor.
-
-🔗 **Repository:** [ADD USB PROJECT REPOSITORY URL]
+### Cyber Security Intern | Police Headquarters, Thiruvananthapuram
+*February – April 2025*[cite: 1]
+- Gained hands-on experience in cyber forensics, digital investigation techniques, and cybersecurity operations within specialized divisions including the **Cyber Crime Division, Cyberdome, Drone Forensic Lab, and Research Centre**[cite: 1].
 
 ---
 
-### 2. Splunk SIEM Home Lab — Windows Events & Linux Log Forwarding
+## 🎓 Education & Certifications
 
-**Focus:** Security monitoring, log collection, and SIEM fundamentals
-
-**Technologies:** Splunk Enterprise, Splunk Universal Forwarder, Windows, Linux
-
-A home lab for practising log forwarding and centralised monitoring across Windows and Linux systems.
-
-**Lab work described**
-
-- Connected a Linux virtual machine to a Splunk Enterprise instance.
-- Configured a Splunk Universal Forwarder to send selected Linux logs to the receiver.
-- Worked with Windows and Linux event/log sources in a virtual lab.
-- Practised validating connectivity and confirming that forwarded events were searchable.
-
-**Potential next steps**
-
-- Build dashboards for authentication and system events.
-- Create searches for repeated authentication failures and unusual activity.
-- Document detection logic, expected results, false positives, and investigation steps.
-- Add sanitised screenshots and sample events that contain no secrets or personal data.
-
-🔗 **Repository / Documentation:** [ADD SPLUNK LAB REPOSITORY OR WRITE-UP URL]
-
----
-
-### 3. Web Application Security Testing — Authorized Lab
-
-**Focus:** Web security assessment and methodical testing
-
-**Technologies:** Kali Linux, Nmap, Burp Suite, HTTP, browser developer tools
-
-A practice project for learning how to map an application's exposed surface and investigate security behaviour in an intentionally provided or explicitly authorized lab.
-
-**Learning activities**
-
-- Service and application discovery.
-- Review of routes, requests, responses, and authentication behaviour.
-- Structured testing of access controls and input handling.
-- Recording findings with evidence, impact, and remediation recommendations.
-
-**Responsible testing**
-
-- Perform testing only against systems you own or have explicit permission to assess.
-- Do not publish live target addresses, credentials, session tokens, private data, or sensitive exploit details.
-- Include a clear scope and remediation-focused write-up.
-
-🔗 **Repository / Report:** [ADD SANITIZED WRITE-UP URL]
-
----
-
-## 🏢 Internship Experience
-
-### Kerala Police Cyber Division
-
-**Internship Period:** 17 February 2025 – 17 April 2025
-
-Completed an internship involving exposure to cybersecurity and digital-investigation functions across the Cyber Crime Division, Cyberdome, Drone Forensic Lab, and Research Centre.
-
-**Experience highlights**
-
-- Gained exposure to cybersecurity operations and digital investigation concepts.
-- Learned about digital evidence and forensic-analysis workflows.
-- Explored security monitoring, vulnerability discovery and mitigation concepts, and security research.
-- Developed a better understanding of professional procedures, documentation, and responsible handling of sensitive information.
-
-**Confidentiality:** This summary intentionally avoids disclosing non-public tools, internal systems, sensitive investigative methods, or operational details.
-
----
-
-## 🏅 Achievements & Professional Development
-
-- **Cybersecurity CTF:** Completed all 15 stages of a Kerala Police cybersecurity CTF under mentor guidance.
-- **Practical Learning:** Built and tested security-related projects and virtual labs.
-- **Continuous Development:** Studying security monitoring, incident response, digital forensics, and authorized application testing.
+### Education
+- **Master of Computer Applications (MCA) in Cyber Security**[cite: 1]  
+  Bennett University *(2023 – 2025)*[cite: 1]
+- **Bachelor of Science (BSc) in Physics**[cite: 1]  
+  Mahatma Gandhi University *(2020 – 2023)*[cite: 1]
 
 ### Certifications & Courses
-
-- **Offenso Certified Security Professional** — *Ongoing*
-- **Certified Ethical Hacker (CEH), EC-Council** — *Status to confirm before publishing*
-
-> Update the CEH line to "In progress," "Completed," or remove it if you have not enrolled or earned the credential. Do not describe a certification as completed unless it has been awarded.
+- **Offenso Certified Security Professional** — Offenso Hackers Academy *(Ongoing)*[cite: 1]
+- **Managing Network Security** — Coursera *(February 2024)*[cite: 1]
+- **Cryptography** — Coursera *(September 2024)*[cite: 1]
 
 ---
 
 ## 📊 GitHub Analytics
-
-These cards fetch public GitHub data dynamically. They may take time to load or be temporarily unavailable because they rely on third-party services. Language statistics represent code in public repositories and should not be treated as a complete measure of skill.
 
 <div align="center">
 
@@ -231,7 +119,6 @@ These cards fetch public GitHub data dynamically. They may take time to load or 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanaelxn&layout=compact&hide_border=true&langs_count=8" alt="Most-used languages in public repositories" />
 
 <img src="https://streak-stats.demolab.com?user=Nathanaelxn&hide_border=true" alt="GitHub contribution streak" />
-
 
 </div>
 
@@ -243,43 +130,9 @@ These cards fetch public GitHub data dynamically. They may take time to load or 
 
 </div>
 
-*Analytics depend on the availability and configuration of external services. A streak or contribution chart measures GitHub activity, not cybersecurity proficiency.*
-
----
-
-## 🧪 Hands-on Learning
-
-I use practical environments to reinforce theory, document what I learn, and build repeatable workflows.
-
-- **SOC / SIEM:** Log collection, event review, search fundamentals, and detection ideas.
-- **Network Security:** TCP/IP concepts, service discovery, and packet analysis.
-- **Web Security:** HTTP request/response analysis and authorized application testing.
-- **Linux:** Command-line workflows and basic system investigation.
-- **Digital Forensics:** Evidence-aware analysis concepts and structured documentation.
-- **Scripting:** Small Python and Bash utilities for automation and learning.
-
-### TryHackMe
-
-[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-View%20My%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/txt2nathanael)
-
-Visit my profile for current learning activity. No rank, room count, or completion statistics are included here because those figures have not been confirmed.
-
----
-
-## 📚 What I'm Working Toward
-
-- Strengthening SOC Analyst L1 fundamentals: alert triage, log analysis, and escalation.
-- Improving Splunk searches, dashboards, and detection use cases.
-- Practising packet analysis and network troubleshooting.
-- Developing Python/Bash scripts with clear documentation and safe error handling.
-- Writing reproducible, remediation-oriented reports for authorized security labs.
-- Maintaining clean repositories with READMEs, setup instructions, screenshots, and test notes.
-
 ---
 
 ## 🤝 Let's Connect
-
-I'm interested in connecting with cybersecurity professionals, SOC teams, mentors, and fellow learners.
 
 - **Portfolio:** [nathanaelxn.github.io/portfolio](https://nathanaelxn.github.io/portfolio/)
 - **LinkedIn:** [Nathanael A Thomas](https://www.linkedin.com/in/nathanael-a-thomas-n/)
@@ -287,20 +140,10 @@ I'm interested in connecting with cybersecurity professionals, SOC teams, mentor
 - **TryHackMe:** [txt2nathanael](https://tryhackme.com/p/txt2nathanael)
 - **GitHub:** [@Nathanaelxn](https://github.com/Nathanaelxn)
 
-**Open to:** Entry-level cybersecurity opportunities, internships, mentorship, and collaborative learning projects.
+**Open to:** Entry-level cybersecurity opportunities, security analyst roles, and collaborative projects[cite: 1].
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-2478D4?style=for-the-badge)](https://nathanaelxn.github.io/portfolio/)
-
-</div>
-
----
-
-<div align="center">
-
-### "Understand the signal. Investigate the evidence. Improve the defence."
-
-*Learning continuously • Testing responsibly • Documenting clearly*
+### "Identify the weakness. Secure the infrastructure. Continuously improve."
 
 </div>
